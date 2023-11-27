@@ -101,12 +101,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h1 {
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h2 {
+.benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -173,7 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h1 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -183,7 +183,7 @@ p {
     font-size: 36px;
 }
 
-.social-media-marketing h3 {
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
